@@ -1,0 +1,34 @@
+body {
+    text-align: center;
+}
+
+p {
+    margin: auto;
+    text-align: center;
+    font-size: 15px;
+}
+
+img {
+    border-radius: 15px;
+    width: 30%;
+    height: auto;
+}
+
+button {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+#upvote {
+    background-color: green;
+}
+
+#downvote {
+    background-color: red;
+}
+
+#votes {
+    background-color: burlywood;
+    width: 20%;
+}
